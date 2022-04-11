@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "1012925799872",
+    "firebase_url": "https://carers-care.firebaseio.com",
+    "project_id": "carers-care",
+    "storage_bucket": "carers-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012925799872:android:1c5fb5c09464dcfd",
+        "android_client_info": {
+          "package_name": "au.edu.utas.carerscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012925799872-lff86ao7ta4lm8vk5h032eb8kevao7ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJcsYzZARIZsRLArpsH7YTiVTEKc7DL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012925799872-lff86ao7ta4lm8vk5h032eb8kevao7ft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012925799872-j1aicr3m5alt19cjbtu847mv7fifa99q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.carerscare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012925799872:android:9723d3c0aadb862845bc25",
+        "android_client_info": {
+          "package_name": "au.edu.utas.carerscareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012925799872-lff86ao7ta4lm8vk5h032eb8kevao7ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJcsYzZARIZsRLArpsH7YTiVTEKc7DL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012925799872-lff86ao7ta4lm8vk5h032eb8kevao7ft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012925799872-j1aicr3m5alt19cjbtu847mv7fifa99q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.carerscare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012925799872:android:8980a3cdfafad96345bc25",
+        "android_client_info": {
+          "package_name": "com.example.flutter_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012925799872-lff86ao7ta4lm8vk5h032eb8kevao7ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJcsYzZARIZsRLArpsH7YTiVTEKc7DL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012925799872-lff86ao7ta4lm8vk5h032eb8kevao7ft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012925799872-j1aicr3m5alt19cjbtu847mv7fifa99q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.carerscare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
