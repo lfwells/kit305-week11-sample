@@ -72,7 +72,7 @@ class _PictureListState extends State<PictureList> {
       appBar: AppBar(
         title:Text("Picture List")
       ),
-      body:FutureBuilder<List<Reference>>( //see slides for more detail on futurebuilder
+      body:FutureBuilder<List<Reference>>( //see slides for more detail on FutureBuilder
         future:_loadImageList,
         builder: (context, snapshot) {
           if (snapshot.hasData == false) {
